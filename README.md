@@ -7,6 +7,7 @@ En este trabajo se realizo un sistema de simulación de sistema de colectivo urb
 ## Requisitos Previos
 
 * IDE de Java Eclipse
+* Junit 5
 
 ## Instrucciones de Instalación y Ejecución
 

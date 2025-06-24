@@ -1,5 +1,11 @@
 # Sistema de Colectivos - Trabajo Integrador de AyP II
 
+
+##Integrantes
+*Agustín Gigliotti Farias
+*Moisés Kutnich
+*Martina Liberatori
+
 ## Descripción del Proyecto
 
 En este trabajo se realizo un sistema de simulación de sistema de colectivo urbano en Java

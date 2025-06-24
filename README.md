@@ -1,10 +1,10 @@
 # Sistema de Colectivos - Trabajo Integrador de AyP II
 
 
-##Integrantes
-*Agustín Gigliotti Farias
-*Moisés Kutnich
-*Martina Liberatori
+## Integrantes
+* Agustín Gigliotti Farias
+* Moisés Kutnich
+* Martina Liberatori
 
 ## Descripción del Proyecto
 
